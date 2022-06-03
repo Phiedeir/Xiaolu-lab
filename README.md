@@ -7,8 +7,8 @@
 
 <div align="center">
   
-#[![OS:ArchLinux](https://img.shields.io/badge/系统-ArchLinux-blue?style=flat&logo=archlinux)](https://archlinux.org)
-#[![DE:Plasma](https://img.shields.io/badge/桌面-Plasma-lightblue?style=flat&logo=KDE)](https://kde.org)
+ [![OS:ArchLinux](https://img.shields.io/badge/系统-ArchLinux-blue?style=flat&logo=archlinux)](https://archlinux.org)
+ [![DE:Plasma](https://img.shields.io/badge/桌面-Plasma-lightblue?style=flat&logo=KDE)](https://kde.org)
   
 </div>
   
