@@ -7,7 +7,7 @@
 
 <div align="center">
   
- [![OS: Windows11](https://img.shields.io/badge/系统- Windows11-blue?style=flat&logo=windows)](https://)
+ [![OS: Windows11](https://img.shields.io/badge/系统- Windows11-blue?style=flat&logo=windows)](https://www.microsoft.com/zh-cn/windows)
 
   
 </div>
